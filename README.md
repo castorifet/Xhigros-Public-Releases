@@ -16,11 +16,25 @@ Fundamental Computer Knowledge
 Once your request has approved,we will send you an invitation link to Testing Group,the internal apk will be avaliable there.
 
 If you have any questions,feel free to contact me at WhatsApp:+65 8813 7186 or QQ:2856643485.
-Supported Languages:
-English
-Singlish
-繁體中文（台灣）
-繁體中文（香港）
-粵語（香港）
-上海言話
-簡體中文（使用簡繁轉換，可能不完全正確）
+
+### Supported Languages:
+
+### English (US)
+
+### Singlish
+
+### 繁體中文（新加坡）
+
+### 繁體中文（台灣）
+
+### 繁體中文（香港）
+
+### 粵語（香港）
+
+### 粵語（新加坡）
+
+### 上海言話
+
+### 簡體中文（使用簡繁轉換，可能不完全正確）
+
+### 繁體中文（中國大陸舊版標準字形）
