@@ -21,6 +21,8 @@ If you have any questions,feel free to contact me at WhatsApp:+65 8813 7186 or Q
 
 ### English (US)
 
+### English (UK)
+
 ### Singlish
 
 ### 繁體中文（新加坡）
@@ -33,8 +35,13 @@ If you have any questions,feel free to contact me at WhatsApp:+65 8813 7186 or Q
 
 ### 粵語（新加坡）
 
+### 粵語非標準字形 （非正字）
+
 ### 上海言話
 
 ### 簡體中文（使用簡繁轉換，可能不完全正確）
 
 ### 繁體中文（中國大陸舊版標準字形）
+
+### 文言（華夏）
+
